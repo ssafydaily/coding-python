@@ -5,7 +5,5 @@ next:
 
 > 참고 노트
 
-### Javascript
-
-### Vue.js
+## 파이썬 기초
 

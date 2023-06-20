@@ -60,9 +60,10 @@ export const sidebar = [
     text: 'Python',
     collapsible: true,
     children: [
-      '/python/01_data_type.md', 
-      '/python/02_container.md', 
-      '/python/03_function.md',
+      '/python/00_intro.md', 
+      '/python/01_variable.md', 
+      '/python/02_data_type.md', 
+      
     ]
   },
 ]

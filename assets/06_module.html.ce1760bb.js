@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7248196e","path":"/python/06_module.html","title":"Module / Package","lang":"ko-KR","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1687168343000,"contributors":[{"name":"jongyun","email":"jongyun.jung@gmail.com","commits":1}]},"filePathRelative":"python/06_module.md"}');export{e as data};

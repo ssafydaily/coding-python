@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,a as e,b as n}from"./app.00a4d25c.js";const o={},r=e("h2",{id:"파이썬-기초",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#파이썬-기초","aria-hidden":"true"},"#"),n(" 파이썬 기초")],-1),s=[r];function _(d,i){return a(),c("div",null,s)}const l=t(o,[["render",_],["__file","index.html.vue"]]);export{l as default};
